@@ -24,8 +24,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Challenges:
--understanding difference between 'Any' and 'AnyObject' sender parameter in calculateTip function
--accessing and applying actions from right click menu on elements of the UI
+
+*understanding difference between 'Any' and 'AnyObject' sender parameter in calculateTip function
+
+*accessing and applying actions from right click menu on elements of the UI
 
 ## License
 
